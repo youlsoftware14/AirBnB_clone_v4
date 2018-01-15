@@ -1,9 +1,9 @@
-# <img src="https://www.holbertonschool.com/assets/holberton-logo-simplified-71b02868461c07d54553e4a7cc05d1926681a6755cc19030b0458f2d70ae9909.png" width="30"> AirBnB Clone V.3 - RESTful API
+# <img src="https://www.holbertonschool.com/assets/holberton-logo-simplified-71b02868461c07d54553e4a7cc05d1926681a6755cc19030b0458f2d70ae9909.png" width="30"> AirBnB Clone V.4 - Web dynamic
 
 ## Synopsis
-This is the 3rd version of our AirBnB clone project. We will be using a REST API and Flask
+This is the 4rd version of our AirBnB clone project. We will be using a RESTful API, Flask, and jQuery AJAX
 
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" alt="step2"></p>
+<p><img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png" alt="step2"></p>
 
 ## Table of Contents
 * [Environment](#environment)
@@ -16,16 +16,15 @@ This is the 3rd version of our AirBnB clone project. We will be using a REST API
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3), jQuery (version 3.x), MySQL (version 5.7), Flask, and Chrome (version 57.0)
 
 ## Installation
-* Run hbnb(interactively): `./console` and enter command
-* Run hbnb(non-interactively): `echo "<command>" | ./console.py`
+** UNDER CONSTRUCTION **
 
 ## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 List of commands this console current supports:
-* `EOF` - exits console 
+* `EOF` - exits console
 * `quit` - exits console
 * `<emptyline>` - overwrites default emptyline method and does nothing
 * `create` - Creates a new instance of`BaseModel`, saves it (to the JSON file) and prints the id
@@ -146,9 +145,14 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Bugs
-No known bugs at this time. 
+No known bugs at this time.
 
 ## Authors
+
+###### Version 4
+
+- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+- Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/outspokenasian)
 
 ###### Version 3
 
@@ -166,4 +170,4 @@ No known bugs at this time.
 - Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 ## License
-Public Domain. No copywrite protection. 
+Public Domain. No copywrite protection.
