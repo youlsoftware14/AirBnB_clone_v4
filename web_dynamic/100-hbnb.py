@@ -13,12 +13,10 @@ def display_hbnb():
     """Generate page with popdown menu of states/cities"""
     states = storage.all('State')
     amenities = storage.all('Amenity')
-    places = storage.all('Place')
     cache_id = uuid.uuid4()
     return render_template('100-hbnb.html',
                            states=states,
                            amenities=amenities,
-                           places=places,
                            cache_id=cache_id)
 
 
