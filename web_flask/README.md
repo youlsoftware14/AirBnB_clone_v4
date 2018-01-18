@@ -1,7 +1,7 @@
 # AirBnB clone - Web Framework
 ## File Structure
 - [100-hbnb.py](100-hbnb.py) - last iteration of Flask web application.
-- **[templates](templates)**
+- **[templates](templates)** directory contains all the html/jinja templates for the Flask web application.
     - [100-hbnb.html](100-hbnb.html) - last iteration of html/jinja template for the Flask web application.
 - **[static](static)** directory contains all the css and images used for the Flask web application.
     - **[styles](static/styles)** directory contains all css used for the Flask web application.
