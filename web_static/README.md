@@ -8,7 +8,7 @@ This directory contains all html, css, and images used for the static AirBnB clo
   - [4-common.css](styles/4-common.css) - last iteration of css for the body.
   - [6-filters.css](styles/6-filters.css) - last iteration of css for the filters.
   - [8-places.css](styles/8-places.css) - last iteration of css for the places display.
-- **[images](images)** contains all images used for the static website.
+- **[images](images)** directory contains all images used for the static website.
   - [icon.png](images/icon.png) - HBnB icon.
   - [icon_bath.png](images/icon_bath.png) - icon of a bath.
   - [icon_bed.png](images/icon_bed.png) - icon of a bed.
