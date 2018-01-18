@@ -31,8 +31,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 - [setup_mysql_dev.sql](setup_mysql_dev.sql) - MySQL script to set-up the hbnb_dev_db database.
 - [setup_mysql_test.sql](setup_mysql_test.sql) - MySQL script to set-up the hbnb_test_db database.
 - **[models](models)** directory contains all classes used for this project:
-  - **[engine](models/engine)** directory contains all storage classes
-- **[tests](tests) directory contains all unit test cases for this project.
+- **[tests](tests)** directory contains all unit test cases for this project.
 - **[web_static](web_static)** directory contains all html, css and images used for the static website.
 - **[web_flask](web_flask)** directory contains all files necessary to start a Flask web application.
 - **[web_dynamic](web_dynamic)** directory contains all files necessary to start a dynamic Flask web application.
