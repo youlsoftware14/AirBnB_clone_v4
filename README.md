@@ -69,23 +69,23 @@ No known bugs at this time.
 
 ###### Version 4
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Alexa Orrico - [Github](https://github.com/alexaorrico)  
+- yssouf soulama - [Github](https://github.com/youlsoftware14)
 
 ###### Version 3
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Felicia Hsieh - [Github](https://github.com/feliciahsieh) / [Twitter](https://twitter.com/feliciahsiehsw)
+- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
+- yssouf soulama -[Github] (https://github.com/youlsoftware14)
 
 ###### Version 2
 
-- Andrew Birnberg - [Github](https://github.com/birnbera) / [Twitter](https://twitter.com/birnbera)
-- Thomas Wang - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
+- yssouf soulama -[Github] (https://github.com/youlsoftware14)
 
 ###### Version 1
 
 - Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+- yssouf soulama-[Github] (https://github.com/youlsoftware14)  
 
 ## License
 Public Domain. No copywrite protection.
